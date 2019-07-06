@@ -1,4 +1,4 @@
-package Foobar.Level3.LuckyTriples;
+package Foobar.Level3.FindTheAccessCodes;
 
 public class Solution {
 
